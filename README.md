@@ -21,10 +21,10 @@ Welcome to my personal portfolio website! This site showcases my work as a front
 ---
 
 ## Project Structure
-/my-portfolio
-├── index.html         
-├── style.css           
-├── /images           
+my-portfolio/
+├── index.html
+├── style.css
+├── images/   
 
 ---
 
