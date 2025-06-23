@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my work as a front
 
 ---
 
-## Live Preview (Optional)
+## Live Preview
 
 > If hosted, you can add a live preview link here:  
 **🔗 [Live Site](https://sanchita-nitr.github.io/innovate/)**
